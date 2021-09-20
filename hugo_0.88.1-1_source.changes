@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Mon, 20 Sep 2021 14:00:00 +0000
+Source: hugo
+Architecture: source
+Version: 0.88.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ hugo (0.88.1-1) unstable; urgency=medium
+ .
+   * Initial Release
+Checksums-Sha1:
+ 8f5777e12207e5904aa4de5cdca0c384bd8d05b0 962 hugo_0.88.1-1.dsc
+ 1c18cae52f402dfb9f1912260bb15ee4a9fe3dd6 11918768 hugo_0.88.1.orig.tar.xz
+ 3eafcadd176100d99e5f31172ab2c45938f2667c 1120 hugo_0.88.1-1.debian.tar.xz
+ 19796b4d11e965c3d08729319df90d16721577e0 4380 hugo_0.88.1-1_source.buildinfo
+Checksums-Sha256:
+ a0256d1a2cc0f08bc5f324ca0bfb38e81933c25427ae9c887908a5b0b1368200 962 hugo_0.88.1-1.dsc
+ 4ee54138bb0d2c8449fee9ccca11f144bf42c2625abcfc74b0d10166ec71eb3e 11918768 hugo_0.88.1.orig.tar.xz
+ ead3ac0f61128047397ace0d6916a0ae4cfbee80f3e68d4eabcb39fe761b6c46 1120 hugo_0.88.1-1.debian.tar.xz
+ f4c5652070db16488b236fd1a0e44d7b7c3c33384c1178f381e2ecd08c54f367 4380 hugo_0.88.1-1_source.buildinfo
+Files:
+ 950aec12d3cd50c8d5385754c60eaa39 962 web optional hugo_0.88.1-1.dsc
+ 982e8eb9adeca648b0f47d255fd67eda 11918768 web optional hugo_0.88.1.orig.tar.xz
+ df5efe977d2dc0a83b33b61314df1f75 1120 web optional hugo_0.88.1-1.debian.tar.xz
+ 809186cbfb2feaefe8ca3179fd17e4bc 4380 web optional hugo_0.88.1-1_source.buildinfo
