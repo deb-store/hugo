@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  hugo deb web optional arch=amd64
 Checksums-Sha1:
- 1c18cae52f402dfb9f1912260bb15ee4a9fe3dd6 11918768 hugo_0.88.1.orig.tar.xz
- 3eafcadd176100d99e5f31172ab2c45938f2667c 1120 hugo_0.88.1-1.debian.tar.xz
+ 43d5889982e679aef71732ddba3d75aa7e51d726 11912332 hugo_0.88.1.orig.tar.xz
+ 8983e17f95d4ac52d3373026baaad63167b74625 1120 hugo_0.88.1-1.debian.tar.xz
 Checksums-Sha256:
- 4ee54138bb0d2c8449fee9ccca11f144bf42c2625abcfc74b0d10166ec71eb3e 11918768 hugo_0.88.1.orig.tar.xz
- ead3ac0f61128047397ace0d6916a0ae4cfbee80f3e68d4eabcb39fe761b6c46 1120 hugo_0.88.1-1.debian.tar.xz
+ ac409ce80d37c671f3b3fce79b9f2b6d173abdd82e11739d1007da53bd325adf 11912332 hugo_0.88.1.orig.tar.xz
+ d7fdda58aeb09a59851e7c1bbea1d41f680e37181dfa0cb5a0ff07bf28848b09 1120 hugo_0.88.1-1.debian.tar.xz
 Files:
- 982e8eb9adeca648b0f47d255fd67eda 11918768 hugo_0.88.1.orig.tar.xz
- df5efe977d2dc0a83b33b61314df1f75 1120 hugo_0.88.1-1.debian.tar.xz
+ 1d733c079131330cdcef24fd39a6b3ea 11912332 hugo_0.88.1.orig.tar.xz
+ da036527c7d9bc3464e9c2bdb5cf194b 1120 hugo_0.88.1-1.debian.tar.xz
