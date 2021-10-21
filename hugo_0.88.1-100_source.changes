@@ -12,17 +12,17 @@ Changes:
  .
    * Initial Release
 Checksums-Sha1:
- 05c372e66f91eb6c600b289b3b5767496425fb2c 970 hugo_0.88.1-100.dsc
- 6f662c449570a13d48aa82a1a76ca0ed7b23009a 11914528 hugo_0.88.1.orig.tar.xz
+ 76957318b9f8d26fcf67d963377f11ff5d952201 970 hugo_0.88.1-100.dsc
+ 43d5889982e679aef71732ddba3d75aa7e51d726 11912332 hugo_0.88.1.orig.tar.xz
  0cb46bceed76282d91115807040fcafcc8767921 1124 hugo_0.88.1-100.debian.tar.xz
- 9ce0be2329bf25040811311ea5864704c1b32241 4492 hugo_0.88.1-100_source.buildinfo
+ f428e17736f9ccc55fef4e1bd7520568cd1152be 4492 hugo_0.88.1-100_source.buildinfo
 Checksums-Sha256:
- d3d9312c118712f544a3435b15156c1f6a58f6544ec15f0b33b36fca9e6dd2cf 970 hugo_0.88.1-100.dsc
- 3e8cbc94fb249706a5fa381acde740aef6d6a2afe7d849665e96f2151a92bbaf 11914528 hugo_0.88.1.orig.tar.xz
+ 8d65f45de126c64db8d192d0a6879828f6acdedba5607c39a66a56c6df1e5b3e 970 hugo_0.88.1-100.dsc
+ ac409ce80d37c671f3b3fce79b9f2b6d173abdd82e11739d1007da53bd325adf 11912332 hugo_0.88.1.orig.tar.xz
  8472cd9cf3d7bc408a9cabd2eae35ad63236d389f1283de57ce88db5fc7fa441 1124 hugo_0.88.1-100.debian.tar.xz
- 4e1c8c7c8dad61a9b9a17056b22f6e0fa9738eee6142c74ece50e273efc695ce 4492 hugo_0.88.1-100_source.buildinfo
+ ed8efae749543e1d1038ff64104f150fddf5d2f570b031a90d66ec1c8612fcd0 4492 hugo_0.88.1-100_source.buildinfo
 Files:
- 0174cf7d73647b169107c6409d2df1b2 970 web optional hugo_0.88.1-100.dsc
- 690bc766e5096d3f0dcbc171ea1398f4 11914528 web optional hugo_0.88.1.orig.tar.xz
+ 7a91e85ca77ef482a2c9e447a898a598 970 web optional hugo_0.88.1-100.dsc
+ 1d733c079131330cdcef24fd39a6b3ea 11912332 web optional hugo_0.88.1.orig.tar.xz
  462ddddbff105d313102fd47ef9014d8 1124 web optional hugo_0.88.1-100.debian.tar.xz
- 0b906ac647261810fd63920471143c68 4492 web optional hugo_0.88.1-100_source.buildinfo
+ 64d2e2799509a4a085d5cc52e03daf88 4492 web optional hugo_0.88.1-100_source.buildinfo
