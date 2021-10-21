@@ -3,14 +3,14 @@ Source: hugo
 Architecture: source
 Version: 0.88.1-100
 Checksums-Md5:
- 7a91e85ca77ef482a2c9e447a898a598 970 hugo_0.88.1-100.dsc
+ 0174cf7d73647b169107c6409d2df1b2 970 hugo_0.88.1-100.dsc
 Checksums-Sha1:
- 76957318b9f8d26fcf67d963377f11ff5d952201 970 hugo_0.88.1-100.dsc
+ 05c372e66f91eb6c600b289b3b5767496425fb2c 970 hugo_0.88.1-100.dsc
 Checksums-Sha256:
- 8d65f45de126c64db8d192d0a6879828f6acdedba5607c39a66a56c6df1e5b3e 970 hugo_0.88.1-100.dsc
+ d3d9312c118712f544a3435b15156c1f6a58f6544ec15f0b33b36fca9e6dd2cf 970 hugo_0.88.1-100.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Thu, 21 Oct 2021 09:20:45 +0000
+Build-Date: Thu, 21 Oct 2021 09:34:30 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
