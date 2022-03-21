@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Tue, 22 Mar 2022 01:00:00 +0300
+Source: hugo
+Architecture: source
+Version: 0.95.0-100
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <mail@z17.dev>
+Changes:
+ hugo (0.95.0-100) unstable; urgency=medium
+ .
+   * NEW: Hugo v0.95.0.
+Checksums-Sha1:
+ 87bf98e887635df60de5d2fdd03ebd51dc935c34 970 hugo_0.95.0-100.dsc
+ 4fdb03f611d618b84e95005548c59e874a48c8d4 12259700 hugo_0.95.0.orig.tar.xz
+ 3a9a7bd51cc37e226d61b0c34e87bf7fdc9b7275 1292 hugo_0.95.0-100.debian.tar.xz
+ 97fff6ceaa0fb95b74a750fc32d7c4744ac8be77 4565 hugo_0.95.0-100_source.buildinfo
+Checksums-Sha256:
+ 9c1c569a200f738b280cfaf05f699c9eccc3881bdf4474ce36c06e9495cab9a9 970 hugo_0.95.0-100.dsc
+ b37b13ad73f9abd2f2635b22627dc20c4a835fe3385494a8860b62dd98e2d414 12259700 hugo_0.95.0.orig.tar.xz
+ 3a5ca85e32755ed5b4f0fa179d211cb373f43021948ece918a363155dc7fb54f 1292 hugo_0.95.0-100.debian.tar.xz
+ 50b42ceee6fa0a0f689463d7c5c57f776a8495b1e76e88ee9f4f947022fc7c12 4565 hugo_0.95.0-100_source.buildinfo
+Files:
+ 0b2737b1d84967bdd1b9983458aed995 970 web optional hugo_0.95.0-100.dsc
+ 281a6f66fe4f8ceee8672c2bc1a48846 12259700 web optional hugo_0.95.0.orig.tar.xz
+ b05434c02448e3dbeb27cf61893f6d40 1292 web optional hugo_0.95.0-100.debian.tar.xz
+ 3d662d28a63df47c33ae091f946f40ef 4565 web optional hugo_0.95.0-100_source.buildinfo
